@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "id": "CSTAUTH",
+      "products": [
+        {
+          "variations": [
+            {
+              "price": 95,
+              "lineid": "0A4ODU"
+            },
+            {
+              "price": 99,
+              "price_unit": 9,
+              "lineid": "0A4ODU"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Customs": true,
+  "type": {
+    "set": true
+  },
+  "total": 1
+}
